@@ -24,3 +24,5 @@ MNOP : Math와 Programming 사이 NO-Problem!
 |--------|--------|-----------|
 | 지도교수 | 구명완 | 서강대학교 |
 | 멘토    | 김진범  | 재능교육  |
+
+# Link : http://cscp2.sogang.ac.kr/CSE4187/index.php/MathAI(%EB%A9%94%EC%8E%84%EC%9D%B4)
