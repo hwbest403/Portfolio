@@ -9,6 +9,8 @@ MNOP : Math와 Programming 사이 NO-Problem!
 - 인공지능을 이용하여 수학 문제를 자체 AI 모델을 통해 전처리
 - 풀이과정과 답을 파이썬 코드로 제공
 
+![기능](https://github.com/hwbest403/Portfolio/assets/81586177/7d882e14-1da5-4701-8340-7d15b9ea0213)
+
 ### 프로젝트 설명
 - 파이썬 결과 도출 과정 Pipeline
   - 1) 모델학습
